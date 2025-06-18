@@ -5,7 +5,7 @@ const getRandomPosition = () => ({
   top: `${Math.floor(Math.random() * 80)}%`,
   left: `${Math.floor(Math.random() * 80)}%`,
 });
-
+//hdbhevhgreygit
 const backgroundClasses = [
   "bg-gradient-to-r from-pink-300 to-yellow-300",
   "bg-gradient-to-r from-purple-300 to-blue-300",
